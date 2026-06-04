@@ -95,7 +95,7 @@ Minor misclassifications observed between related protein families.
 BLAST baseline achieved strong performance and was used as a reference for comparison with Machine Learning and CNN models.
 
 
-###1D CNN Protein Family Classification
+## 1D CNN Protein Family Classification
 Dataset
 
 A balanced dataset of protein sequences was prepared:
