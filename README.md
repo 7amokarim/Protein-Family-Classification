@@ -94,8 +94,8 @@ Minor misclassifications observed between related protein families.
 
 BLAST baseline achieved strong performance and was used as a reference for comparison with Machine Learning and CNN models.
 
-Student C Tasks
-1D CNN Protein Family Classification
+
+###1D CNN Protein Family Classification
 Dataset
 
 A balanced dataset of protein sequences was prepared:
@@ -157,9 +157,9 @@ Kinase and Transporter were more difficult to distinguish.
 CNN outperformed Random Forest on the prepared dataset.
 Final Model Comparison
 Model	Accuracy
-Random Forest (k=3)	37.5%
-Random Forest (k=4)	35.0%
-1D CNN	52.0%
+##Random Forest (k=3)	37.5%
+##Random Forest (k=4)	35.0%
+##1D CNN	52.0%
 Best Model
 
 ## Student
